@@ -1,1 +1,1 @@
-consle.log("Hello")
+const pair = "extraordinaire";
